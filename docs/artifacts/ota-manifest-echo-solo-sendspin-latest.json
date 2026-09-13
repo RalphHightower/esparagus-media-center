@@ -1,14 +1,14 @@
 {
   "name": "echo-solo-sendspin",
-  "version": "2026.09.11-9fa1e9d2",
+  "version": "2026.09.13-302b4a10",
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "ota": {
-        "md5": "fe68937f93840fcb5842ee51c3d564e2",
+        "md5": "4a45eadeee0cd57467e5a64dd01f688b",
         "path": "https://sonocotta.github.io/esparagus-media-center/artifacts/binaries/esphome/echo-solo-sendspin/firmware.ota.bin",
-        "release_url": "https://github.com/sonocotta/esparagus-media-center/commit/9fa1e9d2",
-        "summary": "Esparagus Echo Solo Voice Assistant + Sendspin firmware 2026.09.11-9fa1e9d2"
+        "release_url": "https://github.com/sonocotta/esparagus-media-center/commit/302b4a10",
+        "summary": "Esparagus Echo Solo Voice Assistant + Sendspin firmware 2026.09.13-302b4a10"
       }
     }
   ],
